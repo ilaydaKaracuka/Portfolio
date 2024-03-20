@@ -1,0 +1,40 @@
+KULLANILAN PROMPTLAR
+1) zeynep.png görseli için Canva- "Mavi gözlü, siyah saçlı, 35 yaşında, Türk, üstünde beyaz gömlek olan gözlüklü kadın yazılımcı"
+
+2) Guzellik_Salonu.png görseli için Canva-" Bir güzellik salonunun web sitesini bilgisayar ekranı üzerinde göster. Üstünde hiç yazı olmasın.  Bir kadın yüzü olsun."
+
+3) restoran.png görseli için Canva-"Show a restaurant's website on the phone screen. No text above."
+linki: https://www.canva.com/design/DAF__KPgrZ4/2do97MpHkH-27YbETypzeQ/view
+
+4) HTML-CSS kodu için CHAT-GPT- 
+"Zeynep Yılmaz adlı yazılımcı kişi yaratıp portfolio web sitesi oluşturmam gerekiyor. Bu kişi web tasarımcı bir kadın yazılımcı. Sitenin içerisinde Menu kısmı olmalı ve menu  yazısına gelince sayfanın üst tarafından bir panel açılsın o panelde  ana sayfa, iş tecrübesi, teknik beceriler, projeler, iletişim bilgileri ve sosyal medya bağlantıları, referanslar olmalı. Bunlar buton şeklinde olmalı basınca uygun yere gitmeli.
+1. HTML&CSS gereklidir.
+2. Semantik Etiketlerin Kullanılması: Web sitesinin HTML yapısında, semantik 
+etiketlerin(header, main, nav, sec on, ar cle, aside, footer) kullanılması beklenmektedir. 
+3. Responsive Tasarım(Opsiyonel): Oluşturulan web sitesi, farklı cihaz ve ekran boyutlarına 
+uyumlu olmalıdır. Mobil, tablet ve masaüstü cihazlarda düzgün bir şekilde görüntülenmeli ve 
+kullanıcı deneyimini arttırmak için tasarımın her boyutta opmize edilmiş olması 
+gerekmektedir. 
+Bu kurallara uyarak açıklama satırı kullanmadan web sitesi oluşturur musun?  
+karakterin fotoğrafı için aşağıdaki kodu sitenin en başında kullan ve bu görsel linklerini img etiketi ile kullan: zeynep.png adlı resmi göm.
+Karakterin yaptığı web tasarım çalışmaları için projeler adlı kısıma eklenecek görseller aşağıda verildi bu görselleri uygun yere yerleştir.
+ 1.görsel:
+Guzellik_Salonu.png adlı resmi göm.
+2. görsel:
+Restoran.png adlı resmi göm"
+
+"hoş geldiniz yazısını ortala. zeynep.png resmini ortala ve büyüt. iletişim bilgileri kısmı link olsun ama bir adrese götürmesin. referanslar kısmını doldur"
+
+"iletişim bilgilerini en son kısma koy. hoş geldiniz yazısını ortala. sosyal medya bağlantıları yazısını kaldır. referanslar kısmı ekle ve doldur. "
+
+"en üstteki container içindeki yazılar arasında boşluk bırak. Zeynep Yılmaz yazısını  daha güzel yere taşı veya container içindeki yazılarla arasında boşluk bırak. zeynep.png resminde çerçeveyi daha ortala.maddeleme işaretlerini kaldır. diğer containerler de yazan iş tecrübesi, teknik beceriler,projeler, referanslar,iletişim bilgileri kısımlarını büyüt ve yazılarına farklı marijinal bir stil ver."
+
+"iş tecrübesi, teknik beceriler, referanslar kısmına ekleme yap"
+
+ "üstteki container de ki zeynep yılmaz yazısını biraz yukarı taşı. iş tecrübelerinde şirket isimlerini daha gerçekçi yap. referanslar kısmını gerçekçi yap. "
+ 
+ "projelerde ki görselleri küçült. iletişim bilgileir ekle. iş tecrübelerinde şirket isimlerini gerçekçi yap . Zeynep Yılmaz yazısını yukarı taşı biraz. onun dışında hiçbir yeri değiştirme"
+ 
+ " iletişim bilgileri iconları internetten bul onun linkini entegre et"
+ 
+ " İnternetten favicon bulup ekler misin? "
