@@ -6,7 +6,8 @@ body {
 }
 
 .container {
-    width: 80%;
+    width: 96%;
+    max-width: 1200px;
     margin: 0 auto;
 }
 
@@ -96,4 +97,12 @@ h1 {
 
 h1, h2, h3, h4, h5, h6 {
     text-shadow: 3px 3px 3px  #0a1d30;
+}
+@media screen and (max-width:760px){
+    #anasayfa{width:100%}
+    #is-tecrubesi{width:100%}
+    #teknik-beceriler{width:100%}
+    #projeler{width:100%}
+    #referanslar{width:100%}
+    #iletisim{width:100%}
 }
