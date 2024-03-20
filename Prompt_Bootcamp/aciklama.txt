@@ -7,7 +7,7 @@ KULLANILAN PROMPTLAR
 linki: https://www.canva.com/design/DAF__KPgrZ4/2do97MpHkH-27YbETypzeQ/view
 
 4) HTML-CSS kodu için CHAT-GPT- 
-"Zeynep Yılmaz adlı yazılımcı kişi yaratıp portfolio web sitesi oluşturmam gerekiyor. Bu kişi web tasarımcı bir kadın yazılımcı. Sitenin içerisinde Menu kısmı olmalı ve menu  yazısına gelince sayfanın üst tarafından bir panel açılsın o panelde  ana sayfa, iş tecrübesi, teknik beceriler, projeler, iletişim bilgileri ve sosyal medya bağlantıları, referanslar olmalı. Bunlar buton şeklinde olmalı basınca uygun yere gitmeli.
+"Zeynep Yılmaz adlı yazılımcı kişi yaratıp portfolio web sitesi oluşturmam gerekiyor. Bu kişi web tasarımcı bir kadın yazılımcı. Sitenin içerisinde Menu kısmı olmalı ve menu  yazısına gelince sayfanın üst tarafından bir panel açılsın o panelde  hakkımda, iş tecrübesi, teknik beceriler, projeler, iletişim bilgileri ve sosyal medya bağlantıları, referanslar olmalı. Bunlar buton şeklinde olmalı basınca uygun yere gitmeli.
 1. HTML&CSS gereklidir.
 2. Semantik Etiketlerin Kullanılması: Web sitesinin HTML yapısında, semantik 
 etiketlerin(header, main, nav, sec on, ar cle, aside, footer) kullanılması beklenmektedir. 
@@ -29,7 +29,7 @@ Restoran.png adlı resmi göm"
 
 "en üstteki container içindeki yazılar arasında boşluk bırak. Zeynep Yılmaz yazısını  daha güzel yere taşı veya container içindeki yazılarla arasında boşluk bırak. zeynep.png resminde çerçeveyi daha ortala.maddeleme işaretlerini kaldır. diğer containerler de yazan iş tecrübesi, teknik beceriler,projeler, referanslar,iletişim bilgileri kısımlarını büyüt ve yazılarına farklı marijinal bir stil ver."
 
-"iş tecrübesi, teknik beceriler, referanslar kısmına ekleme yap"
+"iş tecrübesi, teknik beceriler,hakkımda, referanslar kısmına ekleme yap"
 
  "üstteki container de ki zeynep yılmaz yazısını biraz yukarı taşı. iş tecrübelerinde şirket isimlerini daha gerçekçi yap. referanslar kısmını gerçekçi yap. "
  
